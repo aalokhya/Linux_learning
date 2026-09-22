@@ -1,7 +1,0 @@
-pwd (Print Working Directory)  -  Tells you exactly which folder you are standing in right now.
-mkdir (Make Directory) - Creates a brand-new folder named devops-learning for your daily notes.
-ls (List) - Lists everything inside your current location. 
-
-
-![Day 1 Linux Commands](./images/basiccmnds.png)
-
